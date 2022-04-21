@@ -7,6 +7,7 @@ To Purchase Multiplayer XStream Pro Premium Script and other tools such as DoodS
 
 1. Website: [https://xstream-pro.blogspot.com/](https://xstream-pro.blogspot.com/)
 2. Admin Panel Demo: [https://multiplayer-premium.pages.dev/](https://multiplayer-premium.pages.dev/)
+3. Contact: <a href="dailydeveloper@pm.me">dailydeveloper@pm.me</a>
 
 # Update
 
