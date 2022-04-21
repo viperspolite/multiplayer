@@ -58,7 +58,7 @@ We'll Keep Adding More !
   <li>Auto Image Selection Disabled</li>
   <li>Uncustomizable Player</li>
   <li>Video Ads from XStream Pro Pre Installed</li>
-  <li>1,00,000 Per Requests Day Only</li>
+  <li>1,00,000 Requests Per Day</li>
   <li>Supports only Google Photos, DoodStream & StreamTape hosts</li>
   <li>No Iframe Restriction</li>
   <li>Unprotected Admin Panel ( Anyone can generate links from admin panel )</li>
