@@ -11,9 +11,9 @@ To Purchase Multiplayer XStream Pro Premium Script and other tools such as DoodS
 
 # Update
 
-1. 21-04-2022 - Now multiplayer tool supports streaming & downloading of doodStream Protected Links. (Only in Premium Version)
-2. 21-04-2022 - Now DoodStream Tool also supports WebVTT thumbnails from doodStream. (Only in Premium Version)
-3. 26-04-2022 - Now multiplater tool also supports streaming & downloading video from Streamlare
+1. [ 21-04-2022 ] - Now multiplayer tool supports streaming & downloading of doodStream Protected Links. (Only in Premium Version)
+2. [ 21-04-2022 ] - Now DoodStream Tool also supports WebVTT thumbnails from doodStream. (Only in Premium Version)
+3. [ 26-04-2022 ] - Now multiplater tool also supports streaming & downloading video from Streamlare
 
 
 # About
