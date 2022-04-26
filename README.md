@@ -24,7 +24,7 @@ Multiplayer XStream Pro Premium Script offers you to stream & download videos di
   <li>StreamTape</li>
   <li>Google Drive</li>
   <li>Google Photo</li>
-  <li>Streamlare</li>
+  <li>Streamlare ( New ! )</li>
 </ul>
 
 We'll Keep Adding More !
