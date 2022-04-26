@@ -1,5 +1,5 @@
 # Multiplayer
-Description: Play doodStream, streamTape, Google Drive, Google Photos Videos using JW Player.
+Description: Play doodStream, streamTape, Google Drive, Google Photos, Streamlare Videos using JW Player.
 
 # Our Website
 
@@ -13,6 +13,7 @@ To Purchase Multiplayer XStream Pro Premium Script and other tools such as DoodS
 
 1. 21-04-2022 - Now multiplayer tool supports streaming & downloading of doodStream Protected Links. (Only in Premium Version)
 2. 21-04-2022 - Now DoodStream Tool also supports WebVTT thumbnails from doodStream. (Only in Premium Version)
+3. 26-04-2022 - Now multiplater tool also supports streaming & downloading video from Streamlare
 
 
 # About
@@ -23,6 +24,7 @@ Multiplayer XStream Pro Premium Script offers you to stream & download videos di
   <li>StreamTape</li>
   <li>Google Drive</li>
   <li>Google Photo</li>
+  <li>Streamlare</li>
 </ul>
 
 We'll Keep Adding More !
