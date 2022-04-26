@@ -3,7 +3,7 @@ Description: Play doodStream, streamTape, Google Drive, Google Photos, Streamlar
 
 # Our Website
 
-To Purchase Multiplayer XStream Pro Premium Script and other tools such as DoodStream, Streamtape, Google Drive & Google Phtotos visit our site:
+To Purchase Multiplayer XStream Pro Premium Script and other tools such as DoodStream, Streamtape, Streamlare, Google Drive & Google Phtotos visit our site:
 
 1. Admin Panel Demo Website: [https://multiplayer-premium.pages.dev/](https://multiplayer-premium.pages.dev/)
 2. XStream Pro Website: [https://xstream-pro.blogspot.com/](https://xstream-pro.blogspot.com/)
