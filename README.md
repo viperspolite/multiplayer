@@ -53,7 +53,7 @@ We'll Keep Adding More !
 # Free Multiplayer Script Limitations
 
 <ul>
-  <li>No Google Drive Support</li>
+  <li>No Google Drive & StreamLare Support</li>
   <li>Google Photos: Only 360p & 180p links</li>
   <li>DoodStream File Might be Deleted After 60 Days</li>
   <li>No Download Option</li>
